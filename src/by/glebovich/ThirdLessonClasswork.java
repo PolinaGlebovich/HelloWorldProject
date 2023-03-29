@@ -1,5 +1,4 @@
-package by.Glebovich;
-import java.sql.SQLOutput;
+package by.glebovich;
 import java.util.Scanner;
 
 public class ThirdLessonClasswork {

@@ -1,6 +1,4 @@
-package by.Glebovich;
-
-import java.util.Random;
+package by.glebovich;
 
 public class ForLoopClass {
     public static void main(String[] args) {
